@@ -8,4 +8,4 @@ Edit the config files under `/config` as appropriate
 
 Run the `connect.sh` script to run the container
 
-Make sure to add `127.0.0.1` to your local `/etc/hosts`
+Make sure to add `127.0.0.1` to your local `/etc/resolv.conf`
